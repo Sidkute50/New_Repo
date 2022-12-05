@@ -1,0 +1,11 @@
+1)git clone https of github link
+2)git add .
+3)git commit -m(message)
+4)git push remote repo name<space>remote branch name
+
+1)git init
+2)git add .
+3)git commit -m(message)
+4)git remote add origin https://github.com/Sidkute50/New_Repo.git #Create remote repository
+5)git branch -M(branch name)#This will create remote branch
+6)git push remote repo name<space>remote branch name
